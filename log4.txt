@@ -1,0 +1,8 @@
+θών. 14, 2023 3:25:57 PM ht4 main
+INFO: First number 5
+θών. 14, 2023 3:25:58 PM ht4 main
+INFO: Second number 6
+θών. 14, 2023 3:26:01 PM ht4 main
+INFO: Action +
+θών. 14, 2023 3:26:01 PM ht4 main
+INFO: Result 11.0
